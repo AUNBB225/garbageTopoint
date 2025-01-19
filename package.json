@@ -1,9 +1,10 @@
 {
   "version": "1.0.0",
-  "type": "module", 
+  "type": "module",
   "main": "server.js",
   "dependencies": {
     "express": "^4.17.1",
-    "mysql2": "^2.3.3"
+    "mysql2": "^2.3.3",
+    "winston": "^3.17.0"
   }
 }
