@@ -1,297 +1,166 @@
-2025-01-19 20:38:07 info: Server started on port 3000
-2025-01-19 20:38:53 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 20:38:54 info: Successfully connected to database
-2025-01-19 20:38:54 info: User updated - Phone: 0933734348, New Garbage: 41, New Points: 205
-2025-01-19 20:38:54 info: Successfully connected to database
-2025-01-19 20:38:54 info: Trash history recorded - UserID: 1, Amount: 1
-2025-01-19 20:38:57 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 20:38:57 info: Successfully connected to database
-2025-01-19 20:38:57 info: User updated - Phone: 0933734348, New Garbage: 42, New Points: 210
-2025-01-19 20:38:57 info: Successfully connected to database
-2025-01-19 20:38:57 info: Trash history recorded - UserID: 1, Amount: 1
-2025-01-19 20:42:08 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 20:42:08 info: Successfully connected to database
-2025-01-19 20:42:08 info: User updated - Phone: 0933734348, New Garbage: 43, New Points: 215
-2025-01-19 20:42:08 info: Successfully connected to database
-2025-01-19 20:42:08 info: Trash history recorded - UserID: 1, Amount: 1
-2025-01-19 20:56:18 info: Server started on port 3000
-2025-01-19 21:00:34 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 21:00:34 info: Successfully connected to database
-2025-01-19 21:00:34 info: User updated - Phone: 0933734348, New Garbage: 44, New Points: 220
-2025-01-19 21:00:34 info: Successfully connected to database
-2025-01-19 21:00:34 info: Trash history recorded - UserID: 1, Amount: 1
-2025-01-19 21:07:27 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 21:07:27 info: Successfully connected to database
-2025-01-19 21:07:27 info: User updated - Phone: 0933734348, New Garbage: 45, New Points: 225
-2025-01-19 21:07:27 info: Successfully connected to database
-2025-01-19 21:07:27 info: Trash history recorded - UserID: 1, Amount: 1
-2025-01-19 21:21:47 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 21:21:47 info: Successfully connected to database
-2025-01-19 21:21:47 info: User updated - Phone: 0933734348, New Garbage: 46, New Points: 230
-2025-01-19 21:21:47 info: Successfully connected to database
-2025-01-19 21:21:47 info: Trash history recorded - UserID: 1, Amount: 1
-2025-01-19 21:22:13 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 21:22:13 info: Successfully connected to database
-2025-01-19 21:22:13 info: User updated - Phone: 0933734348, New Garbage: 47, New Points: 235
-2025-01-19 21:22:13 info: Successfully connected to database
-2025-01-19 21:22:13 info: Trash history recorded - UserID: 1, Amount: 1
-2025-01-19 21:22:20 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 21:22:20 info: Successfully connected to database
-2025-01-19 21:22:20 info: User updated - Phone: 0933734348, New Garbage: 48, New Points: 240
-2025-01-19 21:22:20 info: Successfully connected to database
-2025-01-19 21:22:20 info: Trash history recorded - UserID: 1, Amount: 1
-2025-01-19 21:22:29 info: New submission received - Phone: 0923734348, Amount: 1
-2025-01-19 21:22:29 info: Successfully connected to database
-2025-01-19 21:22:29 info: New user created - Phone: 0923734348, Garbage: 1, Points: 5
-2025-01-19 21:46:59 info: New submission received - Phone: 0923734348, Amount: 1
-2025-01-19 21:46:59 info: Successfully connected to database
-2025-01-19 21:46:59 info: User updated - Phone: 0923734348, New Garbage: 2, New Points: 10
-2025-01-19 21:46:59 info: Successfully connected to database
-2025-01-19 21:46:59 info: Trash history recorded - UserID: 3, Amount: 1
-2025-01-19 21:56:44 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 21:56:44 info: Successfully connected to database
-2025-01-19 21:56:44 info: User updated - Phone: 0933734348, New Garbage: 49, New Points: 245
-2025-01-19 21:56:44 info: Successfully connected to database
-2025-01-19 21:56:44 info: Trash history recorded - UserID: 1, Amount: 1
-2025-01-19 21:56:50 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 21:56:50 info: Successfully connected to database
-2025-01-19 21:56:50 info: User updated - Phone: 0933734348, New Garbage: 50, New Points: 250
-2025-01-19 21:56:50 info: Successfully connected to database
-2025-01-19 21:56:50 info: Trash history recorded - UserID: 1, Amount: 1
-2025-01-19 21:56:56 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 21:56:56 info: Successfully connected to database
-2025-01-19 21:56:56 info: User updated - Phone: 0933734348, New Garbage: 51, New Points: 255
-2025-01-19 21:56:56 info: Successfully connected to database
-2025-01-19 21:56:56 info: Trash history recorded - UserID: 1, Amount: 1
-2025-01-19 21:57:02 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 21:57:02 info: Successfully connected to database
-2025-01-19 21:57:02 info: User updated - Phone: 0933734348, New Garbage: 52, New Points: 260
-2025-01-19 21:57:02 info: Successfully connected to database
-2025-01-19 21:57:02 info: Trash history recorded - UserID: 1, Amount: 1
-2025-01-19 21:57:08 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 21:57:08 info: Successfully connected to database
-2025-01-19 21:57:08 info: User updated - Phone: 0933734348, New Garbage: 53, New Points: 265
-2025-01-19 21:57:08 info: Successfully connected to database
-2025-01-19 21:57:08 info: Trash history recorded - UserID: 1, Amount: 1
-2025-01-19 21:57:14 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 21:57:14 info: Successfully connected to database
-2025-01-19 21:57:14 info: User updated - Phone: 0933734348, New Garbage: 54, New Points: 270
-2025-01-19 21:57:14 info: Successfully connected to database
-2025-01-19 21:57:14 info: Trash history recorded - UserID: 1, Amount: 1
-2025-01-19 21:57:20 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 21:57:20 info: Successfully connected to database
-2025-01-19 21:57:20 info: User updated - Phone: 0933734348, New Garbage: 55, New Points: 275
-2025-01-19 21:57:20 info: Successfully connected to database
-2025-01-19 21:57:20 info: Trash history recorded - UserID: 1, Amount: 1
-2025-01-19 21:57:26 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 21:57:26 info: Successfully connected to database
-2025-01-19 21:57:26 info: User updated - Phone: 0933734348, New Garbage: 56, New Points: 280
-2025-01-19 21:57:26 info: Successfully connected to database
-2025-01-19 21:57:26 info: Trash history recorded - UserID: 1, Amount: 1
-2025-01-19 21:57:33 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 21:57:33 info: Successfully connected to database
-2025-01-19 21:57:33 info: User updated - Phone: 0933734348, New Garbage: 57, New Points: 285
-2025-01-19 21:57:33 info: Successfully connected to database
-2025-01-19 21:57:33 info: Trash history recorded - UserID: 1, Amount: 1
-2025-01-19 21:57:39 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 21:57:39 info: Successfully connected to database
-2025-01-19 21:57:39 info: User updated - Phone: 0933734348, New Garbage: 58, New Points: 290
-2025-01-19 21:57:39 info: Successfully connected to database
-2025-01-19 21:57:39 info: Trash history recorded - UserID: 1, Amount: 1
-2025-01-19 21:57:45 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 21:57:45 info: Successfully connected to database
-2025-01-19 21:57:45 info: User updated - Phone: 0933734348, New Garbage: 59, New Points: 295
-2025-01-19 21:57:45 info: Successfully connected to database
-2025-01-19 21:57:45 info: Trash history recorded - UserID: 1, Amount: 1
-2025-01-19 21:57:51 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 21:57:51 info: Successfully connected to database
-2025-01-19 21:57:51 info: User updated - Phone: 0933734348, New Garbage: 60, New Points: 300
-2025-01-19 21:57:51 info: Successfully connected to database
-2025-01-19 21:57:51 info: Trash history recorded - UserID: 1, Amount: 1
-2025-01-19 21:57:57 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 21:57:57 info: Successfully connected to database
-2025-01-19 21:57:57 info: User updated - Phone: 0933734348, New Garbage: 61, New Points: 305
-2025-01-19 21:57:57 info: Successfully connected to database
-2025-01-19 21:57:57 info: Trash history recorded - UserID: 1, Amount: 1
-2025-01-19 21:58:03 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 21:58:03 info: Successfully connected to database
-2025-01-19 21:58:03 info: User updated - Phone: 0933734348, New Garbage: 62, New Points: 310
-2025-01-19 21:58:03 info: Successfully connected to database
-2025-01-19 21:58:03 info: Trash history recorded - UserID: 1, Amount: 1
-2025-01-19 21:58:09 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 21:58:09 info: Successfully connected to database
-2025-01-19 21:58:09 info: User updated - Phone: 0933734348, New Garbage: 63, New Points: 315
-2025-01-19 21:58:09 info: Successfully connected to database
-2025-01-19 21:58:09 info: Trash history recorded - UserID: 1, Amount: 1
-2025-01-19 21:58:15 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 21:58:15 info: Successfully connected to database
-2025-01-19 21:58:15 info: User updated - Phone: 0933734348, New Garbage: 64, New Points: 320
-2025-01-19 21:58:15 info: Successfully connected to database
-2025-01-19 21:58:15 info: Trash history recorded - UserID: 1, Amount: 1
-2025-01-19 21:58:21 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 21:58:21 info: Successfully connected to database
-2025-01-19 21:58:21 info: User updated - Phone: 0933734348, New Garbage: 65, New Points: 325
-2025-01-19 21:58:21 info: Successfully connected to database
-2025-01-19 21:58:21 info: Trash history recorded - UserID: 1, Amount: 1
-2025-01-19 21:58:27 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 21:58:28 info: Successfully connected to database
-2025-01-19 21:58:28 info: User updated - Phone: 0933734348, New Garbage: 66, New Points: 330
-2025-01-19 21:58:28 info: Successfully connected to database
-2025-01-19 21:58:28 info: Trash history recorded - UserID: 1, Amount: 1
-2025-01-19 21:58:34 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 21:58:34 info: Successfully connected to database
-2025-01-19 21:58:34 info: User updated - Phone: 0933734348, New Garbage: 67, New Points: 335
-2025-01-19 21:58:34 info: Successfully connected to database
-2025-01-19 21:58:34 info: Trash history recorded - UserID: 1, Amount: 1
-2025-01-19 21:58:40 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 21:58:40 info: Successfully connected to database
-2025-01-19 21:58:40 info: User updated - Phone: 0933734348, New Garbage: 68, New Points: 340
-2025-01-19 21:58:40 info: Successfully connected to database
-2025-01-19 21:58:40 info: Trash history recorded - UserID: 1, Amount: 1
-2025-01-19 21:58:46 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 21:58:46 info: Successfully connected to database
-2025-01-19 21:58:46 info: User updated - Phone: 0933734348, New Garbage: 69, New Points: 345
-2025-01-19 21:58:46 info: Successfully connected to database
-2025-01-19 21:58:46 info: Trash history recorded - UserID: 1, Amount: 1
-2025-01-19 21:58:52 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 21:58:52 info: Successfully connected to database
-2025-01-19 21:58:52 info: User updated - Phone: 0933734348, New Garbage: 70, New Points: 350
-2025-01-19 21:58:52 info: Successfully connected to database
-2025-01-19 21:58:52 info: Trash history recorded - UserID: 1, Amount: 1
-2025-01-19 21:58:58 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 21:58:58 info: Successfully connected to database
-2025-01-19 21:58:58 info: User updated - Phone: 0933734348, New Garbage: 71, New Points: 355
-2025-01-19 21:58:58 info: Successfully connected to database
-2025-01-19 21:58:58 info: Trash history recorded - UserID: 1, Amount: 1
-2025-01-19 21:59:04 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 21:59:04 info: Successfully connected to database
-2025-01-19 21:59:04 info: User updated - Phone: 0933734348, New Garbage: 72, New Points: 360
-2025-01-19 21:59:04 info: Successfully connected to database
-2025-01-19 21:59:04 info: Trash history recorded - UserID: 1, Amount: 1
-2025-01-19 21:59:10 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 21:59:10 info: Successfully connected to database
-2025-01-19 21:59:10 info: User updated - Phone: 0933734348, New Garbage: 73, New Points: 365
-2025-01-19 21:59:10 info: Successfully connected to database
-2025-01-19 21:59:10 info: Trash history recorded - UserID: 1, Amount: 1
-2025-01-19 21:59:16 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 21:59:16 info: Successfully connected to database
-2025-01-19 21:59:16 info: User updated - Phone: 0933734348, New Garbage: 74, New Points: 370
-2025-01-19 21:59:16 info: Successfully connected to database
-2025-01-19 21:59:16 info: Trash history recorded - UserID: 1, Amount: 1
-2025-01-19 21:59:22 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 21:59:22 info: Successfully connected to database
-2025-01-19 21:59:22 info: User updated - Phone: 0933734348, New Garbage: 75, New Points: 375
-2025-01-19 21:59:22 info: Successfully connected to database
-2025-01-19 21:59:22 info: Trash history recorded - UserID: 1, Amount: 1
-2025-01-19 21:59:28 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 21:59:28 info: Successfully connected to database
-2025-01-19 21:59:28 info: User updated - Phone: 0933734348, New Garbage: 76, New Points: 380
-2025-01-19 21:59:28 info: Successfully connected to database
-2025-01-19 21:59:28 info: Trash history recorded - UserID: 1, Amount: 1
-2025-01-19 21:59:34 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 21:59:34 info: Successfully connected to database
-2025-01-19 21:59:34 info: User updated - Phone: 0933734348, New Garbage: 77, New Points: 385
-2025-01-19 21:59:34 info: Successfully connected to database
-2025-01-19 21:59:34 info: Trash history recorded - UserID: 1, Amount: 1
-2025-01-19 21:59:40 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 21:59:40 info: Successfully connected to database
-2025-01-19 21:59:40 info: User updated - Phone: 0933734348, New Garbage: 78, New Points: 390
-2025-01-19 21:59:40 info: Successfully connected to database
-2025-01-19 21:59:40 info: Trash history recorded - UserID: 1, Amount: 1
-2025-01-19 21:59:47 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 21:59:47 info: Successfully connected to database
-2025-01-19 21:59:47 info: User updated - Phone: 0933734348, New Garbage: 79, New Points: 395
-2025-01-19 21:59:47 info: Successfully connected to database
-2025-01-19 21:59:47 info: Trash history recorded - UserID: 1, Amount: 1
-2025-01-19 21:59:53 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 21:59:53 info: Successfully connected to database
-2025-01-19 21:59:53 info: User updated - Phone: 0933734348, New Garbage: 80, New Points: 400
-2025-01-19 21:59:53 info: Successfully connected to database
-2025-01-19 21:59:53 info: Trash history recorded - UserID: 1, Amount: 1
-2025-01-19 21:59:59 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 21:59:59 info: Successfully connected to database
-2025-01-19 21:59:59 info: User updated - Phone: 0933734348, New Garbage: 81, New Points: 405
-2025-01-19 21:59:59 info: Successfully connected to database
-2025-01-19 21:59:59 info: Trash history recorded - UserID: 1, Amount: 1
-2025-01-19 22:00:05 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 22:00:05 info: Successfully connected to database
-2025-01-19 22:00:05 info: User updated - Phone: 0933734348, New Garbage: 82, New Points: 410
-2025-01-19 22:00:05 info: Successfully connected to database
-2025-01-19 22:00:05 info: Trash history recorded - UserID: 1, Amount: 1
-2025-01-19 22:00:11 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 22:00:11 info: Successfully connected to database
-2025-01-19 22:00:11 info: User updated - Phone: 0933734348, New Garbage: 83, New Points: 415
-2025-01-19 22:00:11 info: Successfully connected to database
-2025-01-19 22:00:11 info: Trash history recorded - UserID: 1, Amount: 1
-2025-01-19 22:00:17 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 22:00:17 error: Database connection error:
-2025-01-19 22:00:17 error: Database error: 
-2025-01-19 22:00:23 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 22:00:23 error: Database connection error:
-2025-01-19 22:00:23 error: Database error: 
-2025-01-19 22:00:29 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 22:00:29 error: Database connection error:
-2025-01-19 22:00:29 error: Database error: 
-2025-01-19 22:00:36 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 22:00:36 error: Database connection error:
-2025-01-19 22:00:36 error: Database error: 
-2025-01-19 22:00:42 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 22:00:42 error: Database connection error:
-2025-01-19 22:00:42 error: Database error: 
-2025-01-19 22:00:48 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 22:00:48 error: Database connection error:
-2025-01-19 22:00:48 error: Database error: 
-2025-01-19 22:00:54 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 22:00:54 error: Database connection error:
-2025-01-19 22:00:54 error: Database error: 
-2025-01-19 22:01:00 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 22:01:00 error: Database connection error:
-2025-01-19 22:01:00 error: Database error: 
-2025-01-19 22:01:06 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 22:01:06 error: Database connection error:
-2025-01-19 22:01:06 error: Database error: 
-2025-01-19 22:01:12 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 22:01:12 error: Database connection error:
-2025-01-19 22:01:12 error: Database error: 
-2025-01-19 22:01:18 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 22:01:18 error: Database connection error:
-2025-01-19 22:01:18 error: Database error: 
-2025-01-19 22:01:24 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 22:01:24 error: Database connection error:
-2025-01-19 22:01:24 error: Database error: 
-2025-01-19 22:01:30 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 22:01:30 error: Database connection error:
-2025-01-19 22:01:30 error: Database error: 
-2025-01-19 22:01:36 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 22:01:36 error: Database connection error:
-2025-01-19 22:01:36 error: Database error: 
-2025-01-19 22:01:42 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 22:01:42 error: Database connection error:
-2025-01-19 22:01:42 error: Database error: 
-2025-01-19 22:01:48 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 22:01:48 error: Database connection error:
-2025-01-19 22:01:48 error: Database error: 
-2025-01-19 22:01:54 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 22:01:54 error: Database connection error:
-2025-01-19 22:01:54 error: Database error: 
-2025-01-19 22:02:00 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 22:02:00 info: Successfully connected to database
-2025-01-19 22:02:01 info: User updated - Phone: 0933734348, New Garbage: 84, New Points: 420
-2025-01-19 22:02:01 info: Successfully connected to database
-2025-01-19 22:02:01 info: Trash history recorded - UserID: 1, Amount: 1
-2025-01-19 22:02:07 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 22:02:07 info: Successfully connected to database
-2025-01-19 22:02:07 info: User updated - Phone: 0933734348, New Garbage: 85, New Points: 425
-2025-01-19 22:02:07 info: Successfully connected to database
-2025-01-19 22:02:07 info: Trash history recorded - UserID: 1, Amount: 1
-2025-01-19 22:02:13 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 22:02:13 info: Successfully connected to database
-2025-01-19 22:02:13 info: User updated - Phone: 0933734348, New Garbage: 86, New Points: 430
-2025-01-19 22:02:13 info: Successfully connected to database
-2025-01-19 22:02:13 info: Trash history recorded - UserID: 1, Amount: 1
-2025-01-19 22:02:19 info: Server started on port 3000
-2025-01-19 22:02:22 info: New submission received - Phone: 0933734348, Amount: 1
-2025-01-19 22:02:22 info: Successfully connected to database
-2025-01-19 22:02:22 info: User updated - Phone: 0933734348, New Garbage: 87, New Points: 435
-2025-01-19 22:02:22 info: Successfully connected to database
-2025-01-19 22:02:22 info: Trash history recorded - UserID: 1, Amount: 1
+2025-01-21 19:19:32 info: Server started on port 3000
+2025-01-21 19:21:19 info: New submission received - Phone: undefined, Amount: undefined
+2025-01-21 19:21:19 info: New submission received - Phone: undefined, Amount: undefined
+2025-01-21 19:21:19 info: Successfully connected to database
+2025-01-21 19:21:19 info: Successfully connected to database
+2025-01-21 19:21:20 info: User not found - Phone: undefined
+2025-01-21 19:21:20 info: User not found - Phone: undefined
+2025-01-21 19:21:59 info: New submission received - Phone: undefined, Amount: undefined
+2025-01-21 19:21:59 info: Successfully connected to database
+2025-01-21 19:21:59 info: User not found - Phone: undefined
+2025-01-21 19:23:06 info: New submission received - Phone: 0933734348, Amount: 1
+2025-01-21 19:23:06 info: Successfully connected to database
+2025-01-21 19:23:06 info: User updated - Phone: 0933734348, New Garbage: 1501, New Points: 7505
+2025-01-21 19:23:06 info: Successfully connected to database
+2025-01-21 19:23:06 info: Trash history recorded - UserID: 1, Amount: 1
+2025-01-21 19:23:35 info: New submission received - Phone: 0533734348, Amount: 1
+2025-01-21 19:23:35 info: Successfully connected to database
+2025-01-21 19:23:35 info: User not found - Phone: 0533734348
+2025-01-21 19:23:48 info: New submission received - Phone: 0533734348, Amount: 1
+2025-01-21 19:23:48 info: Successfully connected to database
+2025-01-21 19:23:48 info: User not found - Phone: 0533734348
+2025-01-21 19:28:56 info: Server started on port 3000
+2025-01-21 19:28:59 info: Server started on port 3000
+2025-01-21 19:29:10 info: Server started on port 3000
+2025-01-21 19:29:55 info: Server started on port 3000
+2025-01-21 19:31:24 info: Successfully connected to database
+2025-01-21 19:31:40 info: New submission received - Phone: 0533734348, Amount: 1
+2025-01-21 19:31:40 info: Successfully connected to database
+2025-01-21 19:31:40 info: User not found - Phone: 0533734348
+2025-01-21 19:31:50 info: New submission received - Phone: 0933734348, Amount: 1
+2025-01-21 19:31:50 info: Successfully connected to database
+2025-01-21 19:31:50 info: User updated - Phone: 0933734348, New Garbage: 15011, New Points: 75055
+2025-01-21 19:31:50 info: Successfully connected to database
+2025-01-21 19:31:50 info: Trash history recorded - UserID: 1, Amount: 1
+2025-01-21 19:32:20 info: Successfully connected to database
+2025-01-21 19:52:39 info: New submission received - Phone: 0933734348, Amount: 1
+2025-01-21 19:52:39 info: Successfully connected to database
+2025-01-21 19:52:39 info: User updated - Phone: 0933734348, New Garbage: 150111, New Points: 750555
+2025-01-21 19:52:39 info: Successfully connected to database
+2025-01-21 19:52:39 info: Trash history recorded - UserID: 1, Amount: 1
+2025-01-21 20:02:30 info: Successfully connected to database
+2025-01-21 20:04:47 info: Successfully connected to database
+2025-01-21 20:05:26 info: Successfully connected to database
+2025-01-21 20:05:35 info: New submission received - Phone: 0933734348, Amount: 1
+2025-01-21 20:05:35 info: Successfully connected to database
+2025-01-21 20:05:35 info: User updated - Phone: 0933734348, New Garbage: 1501111, New Points: 15011110
+2025-01-21 20:05:35 info: Successfully connected to database
+2025-01-21 20:05:35 info: Trash history recorded - UserID: 1, Amount: 1
+2025-01-21 20:05:44 info: New submission received - Phone: 0933734348, Amount: 1
+2025-01-21 20:05:44 info: Successfully connected to database
+2025-01-21 20:05:44 info: User updated - Phone: 0933734348, New Garbage: 15011111, New Points: 150111110
+2025-01-21 20:05:44 info: Successfully connected to database
+2025-01-21 20:05:44 info: Trash history recorded - UserID: 1, Amount: 1
+2025-01-21 20:05:46 info: New submission received - Phone: 0933734348, Amount: 1
+2025-01-21 20:05:46 info: Successfully connected to database
+2025-01-21 20:05:46 info: User updated - Phone: 0933734348, New Garbage: 150111111, New Points: 1501111110
+2025-01-21 20:05:46 info: Successfully connected to database
+2025-01-21 20:05:47 info: Trash history recorded - UserID: 1, Amount: 1
+2025-01-21 20:06:34 info: New submission received - Phone: 0933734348, Amount: 1
+2025-01-21 20:06:34 info: Successfully connected to database
+2025-01-21 20:06:34 info: User updated - Phone: 0933734348, New Garbage: 01, New Points: 10
+2025-01-21 20:06:34 info: Successfully connected to database
+2025-01-21 20:06:34 info: Trash history recorded - UserID: 1, Amount: 1
+2025-01-21 20:06:38 info: New submission received - Phone: 0933734348, Amount: 1
+2025-01-21 20:06:38 info: Successfully connected to database
+2025-01-21 20:06:38 info: User updated - Phone: 0933734348, New Garbage: 11, New Points: 110
+2025-01-21 20:06:38 info: Successfully connected to database
+2025-01-21 20:06:38 info: Trash history recorded - UserID: 1, Amount: 1
+2025-01-21 20:10:44 info: Successfully connected to database
+2025-01-21 20:11:13 info: New submission received - Phone: 0933734348, Amount: 1
+2025-01-21 20:11:13 info: Successfully connected to database
+2025-01-21 20:11:13 info: User updated - Phone: 0933734348, New Garbage: 01, Points Added: 10, Total Points: 10
+2025-01-21 20:11:13 info: Successfully connected to database
+2025-01-21 20:11:13 info: Trash history recorded - UserID: 1, Amount: 1
+2025-01-21 20:11:26 info: New submission received - Phone: 0933734348, Amount: 1
+2025-01-21 20:11:26 info: Successfully connected to database
+2025-01-21 20:11:26 info: User updated - Phone: 0933734348, New Garbage: 11, Points Added: 10, Total Points: 20
+2025-01-21 20:11:26 info: Successfully connected to database
+2025-01-21 20:11:26 info: Trash history recorded - UserID: 1, Amount: 1
+2025-01-21 20:13:40 info: Successfully connected to database
+2025-01-21 20:13:43 info: Successfully connected to database
+2025-01-21 20:13:55 info: New submission received - Phone: 0933734348, Amount: 1
+2025-01-21 20:13:55 info: Successfully connected to database
+2025-01-21 20:13:55 info: User updated - Phone: 0933734348, Added Garbage: 1, Points Added: 10, Total Points: 30
+2025-01-21 20:13:55 info: Successfully connected to database
+2025-01-21 20:13:55 info: Trash history recorded - UserID: 1, Amount: 1
+2025-01-21 20:14:40 info: Successfully connected to database
+2025-01-21 20:14:58 info: Successfully connected to database
+2025-01-21 20:15:05 info: New submission received - Phone: 0933734348, Amount: 1
+2025-01-21 20:15:05 info: Successfully connected to database
+2025-01-21 20:15:05 info: User updated - Phone: 0933734348, Added Garbage: 1, Points Added: 1, Total Points: 31
+2025-01-21 20:15:05 info: Successfully connected to database
+2025-01-21 20:15:05 info: Trash history recorded - UserID: 1, Amount: 1
+2025-01-21 20:15:19 info: New submission received - Phone: 0933734348, Amount: 1
+2025-01-21 20:15:19 info: Successfully connected to database
+2025-01-21 20:15:19 info: User updated - Phone: 0933734348, Added Garbage: 1, Points Added: 1, Total Points: 32
+2025-01-21 20:15:19 info: Successfully connected to database
+2025-01-21 20:15:19 info: Trash history recorded - UserID: 1, Amount: 1
+2025-01-21 20:15:23 info: New submission received - Phone: 0933734348, Amount: 1
+2025-01-21 20:15:23 info: Successfully connected to database
+2025-01-21 20:15:23 info: User updated - Phone: 0933734348, Added Garbage: 1, Points Added: 1, Total Points: 33
+2025-01-21 20:15:23 info: Successfully connected to database
+2025-01-21 20:15:23 info: Trash history recorded - UserID: 1, Amount: 1
+2025-01-21 20:15:31 info: New submission received - Phone: 0933734348, Amount: 2
+2025-01-21 20:15:31 info: Successfully connected to database
+2025-01-21 20:15:31 info: User updated - Phone: 0933734348, Added Garbage: 2, Points Added: 2, Total Points: 35
+2025-01-21 20:15:31 info: Successfully connected to database
+2025-01-21 20:15:31 info: Trash history recorded - UserID: 1, Amount: 2
+2025-01-21 20:15:33 info: New submission received - Phone: 0933734348, Amount: 2
+2025-01-21 20:15:33 info: Successfully connected to database
+2025-01-21 20:15:33 info: User updated - Phone: 0933734348, Added Garbage: 2, Points Added: 2, Total Points: 37
+2025-01-21 20:15:33 info: Successfully connected to database
+2025-01-21 20:15:33 info: Trash history recorded - UserID: 1, Amount: 2
+2025-01-21 20:15:35 info: New submission received - Phone: 0933734348, Amount: 2
+2025-01-21 20:15:36 info: Successfully connected to database
+2025-01-21 20:15:36 info: User updated - Phone: 0933734348, Added Garbage: 2, Points Added: 2, Total Points: 39
+2025-01-21 20:15:36 info: Successfully connected to database
+2025-01-21 20:15:36 info: Trash history recorded - UserID: 1, Amount: 2
+2025-01-21 20:21:38 info: Successfully connected to database
+2025-01-21 20:21:56 info: Successfully connected to database
+2025-01-21 20:23:08 info: Successfully connected to database
+2025-01-21 20:24:19 info: Successfully connected to database
+2025-01-21 20:32:01 info: Successfully connected to database
+2025-01-21 20:33:36 info: Successfully connected to database
+2025-01-21 20:38:00 info: Successfully connected to database
+2025-01-21 20:38:08 info: Successfully connected to database
+2025-01-21 20:38:14 info: Successfully connected to database
+2025-01-21 20:41:12 info: Successfully connected to database
+2025-01-21 20:43:10 info: Successfully connected to database
+2025-01-21 20:43:17 info: Successfully connected to database
+2025-01-21 20:45:31 info: Successfully connected to database
+2025-01-21 20:45:47 info: Successfully connected to database
+2025-01-21 20:46:10 info: Successfully connected to database
+2025-01-21 20:46:26 info: Successfully connected to database
+2025-01-21 20:46:58 info: Successfully connected to database
+2025-01-21 20:51:56 info: Successfully connected to database
+2025-01-21 20:52:26 info: Successfully connected to database
+2025-01-21 20:52:29 info: Successfully connected to database
+2025-01-21 20:53:35 info: Successfully connected to database
+2025-01-21 20:53:57 info: Successfully connected to database
+2025-01-21 20:54:02 info: Successfully connected to database
+2025-01-21 20:54:27 info: Successfully connected to database
+2025-01-21 20:57:33 info: Successfully connected to database
+2025-01-21 20:58:28 info: Successfully connected to database
+2025-01-21 20:59:05 info: Successfully connected to database
+2025-01-21 21:02:06 info: Successfully connected to database
+2025-01-21 21:02:06 error: Register error: Unknown column 'email' in 'field list'
+2025-01-21 21:02:55 info: Successfully connected to database
+2025-01-21 21:05:17 info: Successfully connected to database
+2025-01-21 21:05:25 info: Successfully connected to database
+2025-01-21 21:05:45 info: Successfully connected to database
+2025-01-21 21:06:01 info: Successfully connected to database
+2025-01-21 21:07:18 info: Successfully connected to database
+2025-01-21 21:07:42 info: Successfully connected to database
+2025-01-21 21:08:15 info: Successfully connected to database
+2025-01-21 21:13:25 info: Successfully connected to database
+2025-01-21 21:14:45 info: Successfully connected to database
+2025-01-21 21:15:29 info: Successfully connected to database
+2025-01-21 21:15:34 info: Successfully connected to database
+2025-01-21 21:15:44 info: Successfully connected to database
+2025-01-21 21:16:47 info: Successfully connected to database
+2025-01-21 21:17:03 info: Successfully connected to database
+2025-01-21 21:21:57 info: Successfully connected to database
+2025-01-21 21:22:07 info: Successfully connected to database
+2025-01-21 21:22:14 info: Successfully connected to database
+2025-01-21 21:28:13 info: Successfully connected to database

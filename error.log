@@ -32,3 +32,4 @@
 2025-01-19 22:01:48 error: Database error: 
 2025-01-19 22:01:54 error: Database connection error:
 2025-01-19 22:01:54 error: Database error: 
+2025-01-21 21:02:06 error: Register error: Unknown column 'email' in 'field list'
