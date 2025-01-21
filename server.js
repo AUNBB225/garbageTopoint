@@ -55,17 +55,12 @@ app.use(express.json());
 async function connectToDb() {
   try {
     const connection = await mysql.createConnection({
-<<<<<<< HEAD
+      
       host: process.env.DB_HOST,
       user: process.env.DB_USER,
       password: process.env.DB_PASSWORD,
       database: process.env.DB_NAME
-=======
-      host: 'localhost',    // hosting
-      user: 'root',          // ชื่อผู้ใช้งาน MySQL
-      password: '',          // รหัสผ่านฐานข้อมูล
-      database: 'gaebagepoint'   // ชื่อฐานข้อมูล
->>>>>>> 06ebdfea71ab9fe4eba2766dc69045bb69f59747
+
     });
     
     console.log('\x1b[32m%s\x1b[0m', '✓ เชื่อมต่อฐานข้อมูลสำเร็จ!');
